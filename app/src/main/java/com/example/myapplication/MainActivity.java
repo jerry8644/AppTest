@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
-            return false;
+            test if update new the github
         }
 
         return super.onOptionsItemSelected(item);
